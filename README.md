@@ -1,19 +1,6 @@
 ## Cotação Atual do Dolar,Euro e Bitcoin.
 ### Previa - Preview
 ![Homepage image](https://github.com/rodrigoribeiro027/app-de-cotacao/blob/main/app/img/cota%C3%A7ao%20do%20dolar.png)
-
-<h1> Tutorial de Utilização </h1>
-
-<strong> 1. Clonar o repositório </strong>
-<br>
-<strong> 2. Certifique-se que sua versão do python esta atualizada / se não para atualizar. </strong>
-```console
-python -m pip install --upgrade pip
-```
-<strong> 5. Executar a aplicação </strong>
-```console
-python cotaçoes.py
-```
 <div>
  <h2>Video utilizando a aplicação</h2>
    
