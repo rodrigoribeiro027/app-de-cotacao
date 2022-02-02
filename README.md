@@ -20,7 +20,9 @@ python cotaçoes.py
   :link: [Youtube](https://www.youtube.com/watch?v=RGIK32nNbn8) 
  <div>
 
-
+### Api de cotação de moedas gratuita
+  :link: [awesomeapi](https://docs.awesomeapi.com.br/) 
+  
 
 
    ## Contato - Contacts :iphone:
